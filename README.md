@@ -7,4 +7,4 @@ We explore a number of popular advances in the RNN space and how they work on se
 - Long Short Term Memory (LSTM): LSTM units consist of cells, input gates, output gates and forget gates. Storing information from many sequences ago and removing text which is no longer relevant addresses the long term dependencies of sequential data.
 - Gated Recurrent Units (GRU): An RNN unit that controls the flow of information using reset and update gates. Filtering information and storing it into the next states has shown to help resolve the vanishing gradient problem. GRU's have been reported to be effective on small datasets.
 
-![](https://github.com/Kerorogunso/RecurrentTao/blob/master/tao.jpg "Tao Te Ching"){:height="400px" width="200px"}
+![](https://github.com/Kerorogunso/RecurrentTao/blob/master/tao.jpg "Tao Te Ching"| width=200)
